@@ -1,0 +1,3 @@
+C8 Code coverage:
+Code coverage provides information about whether, and optionally how often certain parts of an application have been executed. 
+It’s commonly used to determine how thoroughly a test suite exercises a particular codebase.
